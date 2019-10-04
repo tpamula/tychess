@@ -1,0 +1,11 @@
+.chessboard {
+  min-width: 320px;
+  width: 80vw;
+  max-width: 400px;
+
+  min-height: 320px;
+  height: 80vw;
+  max-height: 400px;
+
+  padding-left: 15px;
+}

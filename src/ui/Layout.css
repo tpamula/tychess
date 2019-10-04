@@ -1,0 +1,4 @@
+#main-wrapper {
+  /* needed because of minimum chessboard width +_margins */
+  min-width: 350px;
+}

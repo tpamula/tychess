@@ -1,0 +1,37 @@
+.chessboard-square {
+  min-width: 40px;
+  width: 10vw;
+  max-width: 50px;
+
+  min-height: 40px;
+  height: 10vw;
+  max-height: 50px;
+
+  display: block;
+  cursor: crosshair;
+  /* a reset is needed, default bootstrap fonts make black pawns look strange on chrome */
+  font-family: "initial !important";
+  font-size: 33px;
+
+  user-select: none;
+}
+
+.chessboard-square.dark {
+  background-color: chocolate;
+}
+
+.chessboard-square.light {
+  background-color: white;
+}
+
+.chessboard-square.selected {
+  background-color: cornflowerblue;
+}
+
+.chessboard-square.legal-piece-move.dark {
+  background-color: darkkhaki;
+}
+
+.chessboard-square.legal-piece-move.light {
+  background-color: khaki;
+}
