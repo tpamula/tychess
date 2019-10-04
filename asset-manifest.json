@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tychess/static/css/main.364c80a2.chunk.css",
+    "main.js": "/tychess/static/js/main.0aee667a.chunk.js",
+    "main.js.map": "/tychess/static/js/main.0aee667a.chunk.js.map",
+    "runtime-main.js": "/tychess/static/js/runtime-main.3c10cb06.js",
+    "runtime-main.js.map": "/tychess/static/js/runtime-main.3c10cb06.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/tychess/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.cb3dd2d3.chunk.js": "/tychess/static/js/2.cb3dd2d3.chunk.js",
+    "static/js/2.cb3dd2d3.chunk.js.map": "/tychess/static/js/2.cb3dd2d3.chunk.js.map",
+    "index.html": "/tychess/index.html",
+    "precache-manifest.31a723bb9ef3525bddacf91dea89eaf0.js": "/tychess/precache-manifest.31a723bb9ef3525bddacf91dea89eaf0.js",
+    "service-worker.js": "/tychess/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/tychess/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.364c80a2.chunk.css.map": "/tychess/static/css/main.364c80a2.chunk.css.map"
+  }
+}
